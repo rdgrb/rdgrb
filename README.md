@@ -1,6 +1,5 @@
 ## Hello, there!! 👋 I'm Rodrigo. 
-[![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-20a708128/) [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdo.rodrigo2@gmail.com) [![HackerRank](https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white)
-](https://www.hackerrank.com/rdo_rodrigo2)<br>
+[![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-20a708128/) [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdo.rodrigo2@gmail.com) <br>
 I'm a Brazilian Junior Developer working on a tracking start-up ([BWS IoT](https://bwsiot.com)).<br> 
 Also i'm studying Software Analysis and Development in Impacta College (Faculdade Impacta de Tecnologia - SP).
 
